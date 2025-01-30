@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-    color: #fff;
+    color: #ffffff;
 }
 
 `
